@@ -1,5 +1,4 @@
 **Projeto TaskMaster: Aplicação Web de Gestão de Tarefas**
-
 ### Tecnologias Utilizadas:
 - **PHP**: Backend para lógica de negócios e manipulação de dados.
 - **JavaScript**: Frontend para a interface do usuário.
@@ -8,13 +7,13 @@
 - **Rust (Opcional)**: Funcionalidades de alta performance, como criptografia.
 
 ### Estrutura do Projeto com Sprints
-
-#### Sprint 0: Planejamento
+#### Sprint 0: Planejamento 04/08/2024 -- Em andamento
 - **Duração**: 1 semana
 - **Atividades**:
   - Definir requisitos do projeto.
   - Criar wireframes e diagramas de fluxo.
   - Configurar ambiente de desenvolvimento.
+</font>
 
 #### Sprint 1: Desenvolvimento do Backend com PHP
 - **Duração**: 2 semanas
